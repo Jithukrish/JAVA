@@ -26,7 +26,7 @@ public class inc{
   }
   else
  {
- System.out.println(" increasing or decreasing ");
+ System.out.println("  neigther increasing nor decreasing ");
   }
 }
 }
@@ -53,5 +53,5 @@ first number:
 6
 3rd number: 
 1
- increasing and decreasing 
+ neigther increasing nor decreasing 
 */
