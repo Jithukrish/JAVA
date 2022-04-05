@@ -24,3 +24,4 @@ number is : 3 and cube of:  3 is :27
 number is : 4 and cube of:  4 is :64
 */
 
+//Verified
